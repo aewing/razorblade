@@ -1,0 +1,7 @@
+parameters:
+    razor_blade.http.client: AEwing\RazorBlade\Http\GuzzleClient
+
+services:
+#    razor_blade.example:
+#        class: %razor_blade.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

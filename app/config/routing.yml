@@ -1,0 +1,4 @@
+razor_blade:
+    resource: "@RazorBladeBundle/Resources/config/routing.yml"
+    prefix:   /
+
